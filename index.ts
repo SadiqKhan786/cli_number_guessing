@@ -1,4 +1,4 @@
-#! user/bin/env node
+#! /usr/bin/env node
 // number guessing game by sadiq_khan
 
 import inquirer from 'inquirer';

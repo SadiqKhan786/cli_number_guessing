@@ -1,6 +1,6 @@
 {
   "name": "@sadiq.khan/cli_number_guessing_by_sk_karachi",
-  "version": "1.0.4",
+  "version": "1.0.8",
   "description": "this is cli_number_guessing game by sk karachi",
   "main": "index.js",
   "type": "module",
